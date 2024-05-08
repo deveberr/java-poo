@@ -1,8 +1,6 @@
 # Aprendendo Orientação a Objetos com Java
-<hr>
 
 ## ☕ O que aprendi/estou aprendendo
-<hr>
 
 - [x] Classes
     - Criação de classes
@@ -17,8 +15,9 @@
     - Parâmetros e argumentos
     - Valores de retorno
     - Sobrecarga de método
+
 ## 📜 Recursos
-<hr>
+
 Lista de conteúdos que utilizei para aprender Programação Orientada a Objetos em Java:
 <ul>
   <li><a href="https://www.jetbrains.com/pt-br/idea/">IntelliJ IDEA</a></li>
