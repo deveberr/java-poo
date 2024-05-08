@@ -9,5 +9,10 @@
     - Criação de múltiplos objetos
     - Utilização de múltiplas classes
     - Modificador `final` caso não queira substituir valores existentes
-      - Exemplo: `public final String nome = "Gohan";`
-    - Métodos
+        - Exemplo: `public final String nome = "Gohan";`
+- [x] Métodos
+    - Criação de métodos
+    - Parâmetros e argumentos
+    - Valores de retorno
+    - Sobrecarga de método
+  
